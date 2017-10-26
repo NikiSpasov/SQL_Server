@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.DataDefinitionAndDataTypes", "02.DataDefinitionAndDataTypes\DataDefinitionAndDataTypes\02.DataDefinitionAndDataTypes.ssmssqlproj", "{CA157362-62FD-471D-A669-2D37E800067B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03.BasicCRUD", "03.BasicCRUD\03.BasicCRUD.ssmssqlproj", "{4FA0A6F0-9E20-43F4-B67F-C1D221F5A6C3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.Built-IN Functions", "04.Built-IN Functions\Built-IN Functions\04.Built-IN Functions.ssmssqlproj", "{CEE8E69E-F37C-4DC1-B8B9-BFF72EC49F68}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.DataAggregation", "05.DataAggregation\05.DataAggregation.ssmssqlproj", "{7C8EC4FC-7F95-49F7-9B94-922EF22735AC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.TableRelations", "06.TableRelations\06.TableRelations.ssmssqlproj", "{591CB021-B038-4963-9961-42DA37F8050C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07.SubqueriesAndJoins", "07.SubqueriesAndJoins\07.SubqueriesAndJoins.ssmssqlproj", "{BE11ED89-EC32-46BF-9547-AAF3815BA06B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08.FunctionsAndProcedures", "08.FunctionsAndProcedures\08.FunctionsAndProcedures.ssmssqlproj", "{DAD8D3C2-4966-4401-B8F9-5EFE3D5ACB9B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09.TriggersAndTransactions", "09.TriggersAndTransactions\09.TriggersAndTransactions.ssmssqlproj", "{ABF350EC-E1A4-4C22-A88A-90061F8F715A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamPrepWashingMachineService", "ExamPrepWashingMachineService\ExamPrepWashingMachineService.ssmssqlproj", "{B1B22526-0513-4680-BAFD-49DED1BA4078}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamPrepBakery", "ExamPrepBakery\ExamPrepBakery.ssmssqlproj", "{61BB2228-1AB0-413B-A3C4-C38C26745F65}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Exam221017ReportService", "Exam221017ReportService\Exam221017ReportService.ssmssqlproj", "{400936E7-59D3-4CC3-88B2-44CBF6B3F5CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA157362-62FD-471D-A669-2D37E800067B}.Default|Default.ActiveCfg = Default
+		{4FA0A6F0-9E20-43F4-B67F-C1D221F5A6C3}.Default|Default.ActiveCfg = Default
+		{CEE8E69E-F37C-4DC1-B8B9-BFF72EC49F68}.Default|Default.ActiveCfg = Default
+		{7C8EC4FC-7F95-49F7-9B94-922EF22735AC}.Default|Default.ActiveCfg = Default
+		{591CB021-B038-4963-9961-42DA37F8050C}.Default|Default.ActiveCfg = Default
+		{BE11ED89-EC32-46BF-9547-AAF3815BA06B}.Default|Default.ActiveCfg = Default
+		{DAD8D3C2-4966-4401-B8F9-5EFE3D5ACB9B}.Default|Default.ActiveCfg = Default
+		{ABF350EC-E1A4-4C22-A88A-90061F8F715A}.Default|Default.ActiveCfg = Default
+		{B1B22526-0513-4680-BAFD-49DED1BA4078}.Default|Default.ActiveCfg = Default
+		{61BB2228-1AB0-413B-A3C4-C38C26745F65}.Default|Default.ActiveCfg = Default
+		{400936E7-59D3-4CC3-88B2-44CBF6B3F5CF}.Default|Default.ActiveCfg = Default
+		{C6C5C9F0-BAC2-4B11-AD94-8689294FF497}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

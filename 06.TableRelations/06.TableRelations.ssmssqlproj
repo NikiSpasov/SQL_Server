@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TableRelations">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-MPHMK6M\SQLEXPRESS:DESKTOP-MPHMK6M\Nik">
+          <Created>2017-10-05T20:09:35.5350885+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-MPHMK6M\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>SoftUni</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.One-To-One Relationship.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01.One-To-One Relationship.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.One-To-Many Relationship.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02.One-To-Many Relationship.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.Many-To-Many Relationship.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03.Many-To-Many Relationship.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Self-Referencing .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04.Self-Referencing .sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.OnlineStoreDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05.OnlineStoreDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.UniversityDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06.UniversityDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.PeaksInRila.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09.PeaksInRila.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cascade.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cascade.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DemoOneToMany.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DemoOneToMany.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ManyToMany.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ManyToMany.sql</FullPath>
+        </FileNode>
+        <FileNode Name="OneToOne.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MPHMK6M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MPHMK6M\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>OneToOne.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
