@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 14.00
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.DataDefinitionAndDataTypes", "02.DataDefinitionAndDataTypes\DataDefinitionAndDataTypes\02.DataDefinitionAndDataTypes.ssmssqlproj", "{CA157362-62FD-471D-A669-2D37E800067B}"
 EndProject
@@ -25,6 +25,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamPrepBakery", "ExamPrepB
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Exam221017ReportService", "Exam221017ReportService\Exam221017ReportService.ssmssqlproj", "{400936E7-59D3-4CC3-88B2-44CBF6B3F5CF}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.SomeTestsForSQLAdvanced", "00.SomeTestsForSQLAdvanced\00.SomeTestsForSQLAdvanced.ssmssqlproj", "{A55DA59A-71B8-4E58-9693-357D149317A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -41,7 +43,8 @@ Global
 		{B1B22526-0513-4680-BAFD-49DED1BA4078}.Default|Default.ActiveCfg = Default
 		{61BB2228-1AB0-413B-A3C4-C38C26745F65}.Default|Default.ActiveCfg = Default
 		{400936E7-59D3-4CC3-88B2-44CBF6B3F5CF}.Default|Default.ActiveCfg = Default
-		{C6C5C9F0-BAC2-4B11-AD94-8689294FF497}.Default|Default.ActiveCfg = Default
+		{69CD89E9-56FA-413C-9542-9260FE1B230A}.Default|Default.ActiveCfg = Default
+		{A55DA59A-71B8-4E58-9693-357D149317A9}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
